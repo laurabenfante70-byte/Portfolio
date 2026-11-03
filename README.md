@@ -1,4 +1,4 @@
-# Portfolio LB
+# Portfolio di Laura Benfante
 
 Sito statico per GitHub Pages. Nessuna build necessaria.
 
